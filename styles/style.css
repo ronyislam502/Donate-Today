@@ -1,0 +1,258 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+/* bannner */
+.container {
+    background-image: url(../images/donation1.jpg);
+    padding: 300px;
+    background-repeat: no-repeat;
+    text-align: center;
+    background-size: cover;
+}
+
+.container-title {
+    font-weight: 700;
+    font-size: 65px;
+    margin-bottom: 20px;
+    color: #FFFFFF;
+}
+
+.container-description {
+    font-size: 18px;
+    color: #FFFFFF;
+    margin-bottom: 30px;
+}
+
+.btn-primary {
+    padding: 16px 12px;
+    background: #FF5959;
+    border-radius: 5px;
+    width: 160px;
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 20px;
+    border: 0;
+}
+
+/* bannner */
+
+/* main */
+main {
+    max-width: 1140px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+/* donate */
+.donate {
+    margin-top: 130px;
+}
+
+.donate-title {
+    font-weight: 700;
+    font-size: 45px;
+    color: #121212;
+    margin-bottom: 20px;
+}
+
+.donate-description {
+    font-size: 18px;
+    color: #707070;
+    margin-bottom: 50px;
+}
+
+.amount {
+    display: flex;
+    gap: 22px;
+}
+
+.amount-1 {
+    background: #FAFAFA;
+    border-radius: 5px;
+    font-weight: 700;
+    font-size: 30px;
+    color: #707070;
+    padding: 24px 44px;
+}
+
+.amount-2 {
+    background: #FFEEEE;
+    border: 2px solid #FF5959;
+    padding: 24px 44px;
+    font-weight: 700;
+    font-size: 30px;
+    border-radius: 5px;
+}
+
+.donate-sub-text {
+    font-size: 18px;
+    color: #B3B3B3;
+    margin-top: 60px;
+    margin-bottom: 10px;
+}
+
+.donate-ray {
+    width: 1000px;
+    border: 1px solid #DADADA;
+    margin-bottom: 30px;
+}
+
+/* donate */
+
+/* donate plan */
+.donate-plan {
+    margin-top: 130px;
+}
+
+.plan-title {
+    font-weight: 700;
+    font-size: 45px;
+    color: #121212;
+    margin-bottom: 20px;
+}
+
+.plan-description {
+    font-size: 18px;
+    color: #707070;
+    margin-bottom: 50px;
+}
+
+.plan {
+    display: flex;
+    gap: 24px;
+}
+
+.plan-1 {
+    background: rgba(79, 157, 166, 0.1);
+    border-radius: 5px;
+    padding: 23px 54px;
+    text-align: left;
+}
+
+.plan-2 {
+    background: rgba(255, 89, 89, 0.1);
+    border-radius: 5px;
+    padding: 23px 54px;
+    text-align: left;
+}
+
+.plan-3 {
+    background: rgba(243, 225, 143, 0.918);
+    border-radius: 5px;
+    padding: 23px 54px;
+    text-align: left;
+}
+
+.plan-sub-title {
+    font-weight: 600;
+    font-size: 24px;
+    color: #121212;
+    margin-top: 31px;
+}
+
+.plan-sub-description {
+    font-size: 16px;
+    color: #707070;
+    margin-top: 16px;
+}
+
+/* donate plan */
+
+/* lives % survive */
+.lives-donation {
+    display: flex;
+    margin-top: 130px;
+    gap: 94px;
+    text-align: left;
+}
+
+.lives-title {
+    font-weight: 700;
+    font-size: 45px;
+    color: #121212;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.lives-description {
+    font-size: 18px;
+    color: #707070;
+    margin-bottom: 30px;
+}
+
+.btn-btn-primary {
+    width: 230px;
+    background: #FF5959;
+    border-radius: 5px;
+    border: 0;
+    font-weight: 600;
+    font-size: 20px;
+    color: #FFFFFF;
+    padding: 21px 16px;
+}
+
+.srvive {
+    display: flex;
+    margin-top: 100px;
+    gap: 94px;
+    text-align: left;
+}
+
+.survive-title {
+    font-weight: 700;
+    font-size: 45px;
+    color: #121212;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.survive-description {
+    font-size: 18px;
+    color: #707070;
+    margin-bottom: 30px;
+}
+
+/* lives & survive */
+
+/* updatesection */
+.update-section {
+    margin-top: 130px;
+}
+
+.update-title {
+    font-weight: 700;
+    font-size: 45px;
+    color: #121212;
+    margin-bottom: 20px;
+}
+
+.update-description {
+    font-size: 18px;
+    color: #707070;
+    margin-bottom: 50px;
+}
+
+.update {
+    padding: 76px 188px;
+    background: #FFF4D6;
+}
+
+/* footer */
+.footer {
+    background: #0B0D17;
+    text-align: center;
+    margin-top: 130px;
+    padding: 42px 689px;
+}
+
+.footer-description {
+    font-size: 14px;
+    color: #D9DBE1;
+    margin-top: 24px;
+}
